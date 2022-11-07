@@ -1,0 +1,10 @@
+body {
+    background-color: yellow;
+    color: tomato;
+}
+
+table, th, td {
+    border: blue 2px solid;
+    padding: 10px;
+    text-align: center;
+}
